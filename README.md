@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** for your project:
-
----
-
 # LangChain Google Gemini Example
 
 This project demonstrates how to use **LangChain** with **Google’s Gemini API** to build and interact with AI chat models.
@@ -92,6 +88,3 @@ print(response.content)
 Hello! How can I assist you today?
 ```
 
----
-
-Would you like me to make it more **GitHub-ready** (with badges, formatted title, and sections like "Requirements" and "License")?
